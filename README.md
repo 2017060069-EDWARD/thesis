@@ -1,2 +1,5 @@
 # thesis
  aiedu
+
+ I WAS JUST TESTING MAKING A NEW REPOSITORY. 
+ 
